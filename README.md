@@ -9,6 +9,20 @@
  - 使用Gemや機能、各担当箇所は以下に記載
 
 # 制作メンバー
+## Tatsu88-Tokyo
+<a href="https://github.com/Tatsu88-Tokyo"><img src="https://avatars1.githubusercontent.com/u/57035748?s=460&v=4" width="100px;" />
+
+### 実装内容
+スクラムマスター<br>
+ユーザー新規登録（セッションを用いたWizard形式）/ログアウト<br>
+クレジットカード登録（Payjp)<br>
+クレジットカード情報表示(Payjp)<br>
+商品購入機能実装（Payjp)<br>
+取り置き機能（オリジナル）<br>
+Twitter APIを用いた新規登録＋ログイン(オリジナル）<br>
+Twitterへのリンクシェア機能（オリジナル）<br>
+README編集
+
 ## 檜垣 慶太
 ### 実装内容
 <a href="https://github.com/higakikeita"><img src="https://avatars0.githubusercontent.com/u/41051390?s=460&v=4" height="100px;" /></a>
@@ -56,21 +70,6 @@ OmniAuthを用いたFacebookでのログイン<br>
 パンくず実装<br>
 テストコード実装（商品出品、ユーザー新規登録、ログイン）<br>
 商品検索画面（ビュー）作成<br>
-
-
-## Tatsu88-Tokyo
-<a href="https://github.com/Tatsu88-Tokyo"><img src="https://avatars1.githubusercontent.com/u/57035748?s=460&v=4" width="100px;" />
-
-### 実装内容
-スクラムマスター<br>
-ユーザー新規登録（セッションを用いたWizard形式）/ログアウト<br>
-クレジットカード登録（Payjp)<br>
-クレジットカード情報表示(Payjp)<br>
-商品購入機能実装（Payjp)<br>
-取り置き機能（オリジナル）<br>
-Twitter APIを用いた新規登録＋ログイン(オリジナル）<br>
-Twitterへのリンクシェア機能（オリジナル）<br>
-README編集
 
 
 # Gem/ver
