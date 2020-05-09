@@ -9,7 +9,7 @@
  - 使用Gemや機能、各担当箇所は以下に記載
 
 # 制作メンバー
-## Tatsu88-Toky
+## Tatsu88-Tokyo
 <a href="https://github.com/Tatsu88-Tokyo"><img src="https://avatars1.githubusercontent.com/u/57035748?s=460&v=4" width="100px;" />
 
 ### 実装内容
