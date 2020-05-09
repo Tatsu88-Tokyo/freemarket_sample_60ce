@@ -49,7 +49,7 @@
 #
 # The server-based syntax can be used to override options:
 # ------------------------------------
-server "18.176.134.115",
+server "18.180.229.50",
    user: "ec2-user",
    roles: %w{web db app}
    set :rails_env, "production"
