@@ -8,6 +8,11 @@
  - 制作期間:December 21st,2019 ~ March 14th,2020
  - 使用Gemや機能、各担当箇所は以下に記載
 
+ # サイトURL（Basic認証キー）
+ - ユーザー名: admin
+ - パスワード: 0322
+ - パブリックIP: http://18.180.229.50/
+
 # 制作メンバー
 ## Tatsu88-Tokyo
 <a href="https://github.com/Tatsu88-Tokyo"><img src="https://avatars1.githubusercontent.com/u/57035748?s=460&v=4" width="100px;" />
@@ -105,11 +110,6 @@ OmniAuthを用いたFacebookでのログイン<br>
  - gem 'payjp'
  - gem 'ransack' 
  - gem 'kaminari'
-
-# サイトURL（Basic認証キー）
- - ユーザー名: admin
- - パスワード: 0322
- - パブリックIP: http://18.180.229.50/
 
 ## ER図
 
